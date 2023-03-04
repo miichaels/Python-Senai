@@ -1,6 +1,0 @@
-manipulando arquivos 
-brincando 
-com manipulação 
-de arquivos 
-usando Python 
-Mais uma linha
